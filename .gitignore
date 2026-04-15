@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Project specific
+.env
+data/
+chroma_db/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
